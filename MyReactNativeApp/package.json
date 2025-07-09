@@ -1,0 +1,17 @@
+{
+  "name": "MyReactNativeApp",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "start": "react-native start",
+    "android": "react-native run-android",
+    "ios": "react-native run-ios"
+  },
+  "dependencies": {
+    "react": "19.1.0",
+    "react-native": "0.80.1"
+  },
+  "devDependencies": {
+    "react-test-renderer": "19.1.0"
+  }
+}
